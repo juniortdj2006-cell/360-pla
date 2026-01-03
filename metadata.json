@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 360 Event Capture Pro",
+  "description": "A high-end MVP for 360° platform events, featuring automated recording, video processing simulation, and instant QR code sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
